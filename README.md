@@ -1,6 +1,6 @@
 ## 🧾 Description
-![image](https://user-images.githubusercontent.com/37364005/197420945-ec74d087-21f9-425b-b610-6ee8b6ab8f9b.png) <br />
-Autotests for <b>chess.com</b>. Tests include web, API, mobile.
+![image](https://www.saucedemo.com/v1/img/SwagLabs_logo.png) <br />
+Autotests for <b>saucedemo.com</b>. Tests include web and mobile.
 
 <br />
 
@@ -30,14 +30,6 @@ Autotests for <b>chess.com</b>. Tests include web, API, mobile.
 :white_check_mark: Redirect to sign up page<br />
 :white_check_mark: Redirect to log in page<br />
 :white_check_mark: Check button log in on sign up<br />
-🕹 api <br />
-:white_check_mark: Get playlist video<br />
-:white_check_mark: Get events<br />
-:white_check_mark: Get news<br />
-:white_check_mark: Get board settings<br />
-:white_check_mark: Get themes<br />
-:white_check_mark: Get members statistics<br />
-:white_check_mark: Get leagues information not auth user<br />
 📱 mobile <br />
 :white_check_mark: Check elements on main screen unauthorized user <br />
 :white_check_mark: Successful log in <br />
