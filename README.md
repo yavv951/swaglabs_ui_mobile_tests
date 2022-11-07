@@ -1,6 +1,6 @@
 ## 🧾 Description
 ![image](https://www.saucedemo.com/v1/img/SwagLabs_logo.png) <br />
-Autotests for <b>saucedemo.com</b>. Tests include web and mobile.
+Autotests for <b>https://saucedemo.com</b>. Tests include web and mobile.
 
 <br />
 
