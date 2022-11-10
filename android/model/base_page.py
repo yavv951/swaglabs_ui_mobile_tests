@@ -5,11 +5,11 @@ from selene.support.shared import browser
 class BasePage:
 
     @staticmethod
-    def fill_element(locator: str, text: str):
+    def fill_element(locator, text):
         browser.element(locator).clear().type(text)
 
     @staticmethod
-    def click_element(locator: str):
+    def click_element(locator):
         browser.element(locator).should(be.clickable).click()
 
     @staticmethod
